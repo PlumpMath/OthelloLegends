@@ -14,7 +14,7 @@
                 
  Android implementation of the classical game Othello/Reversi.  
  Check it out at
- https://play.google.com/store/apps/details?id=se.noren.android.othello
+https://play.google.com/store/apps/details?id=se.noren.android.porthello&hl=en
  
  This is a rebased version since the first version added to Google Play 
  in 2011 was deleted due to copyright infringement of the trademarked
@@ -35,7 +35,9 @@
  to add new or edit the 3D models.
  
  Here's a blogpost with some reflections on the development of the 
- game http://macgyverdev.blogspot.se/2011/12/othello-legends-10-in-android-market.html
+ game 
+http://macgyverdev.blogspot.se/2011/12/othello-legends-10-in-android-market.html
+http://macgyverdev.blogspot.se/2014/02/porthello-legends-android-reversi-port.html
   
  Feel free to be inspired and borrow snippets of code for your own 
  projects, but please do not rip of a complete copy of the game to 
