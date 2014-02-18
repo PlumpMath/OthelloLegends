@@ -16,6 +16,10 @@
  Check it out at
  https://play.google.com/store/apps/details?id=se.noren.android.othello
  
+ This is a rebased version since the first version added to Google Play 
+ in 2011 was deleted due to copyright infringement of the trademarked
+ "Othello". So from now, the game is called Porthello. 
+ 
  For Android developers, lots of features to be inspired from like 
  3D game engine for rendering added upon the OpenGLES jPCT 3D. 
  Graphics modelled in Blender can be rendered, manipulated and 

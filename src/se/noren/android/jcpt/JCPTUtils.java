@@ -2,7 +2,7 @@ package se.noren.android.jcpt;
 
 import java.util.Enumeration;
 
-import se.noren.android.othello.R;
+import se.noren.android.porthello.R;
 import android.content.res.Resources;
 
 import com.threed.jpct.FrameBuffer;

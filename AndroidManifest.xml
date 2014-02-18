@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="se.noren.android.othello"
+      package="se.noren.android.porthello"
       android:versionCode="4"
       android:versionName="1.0.3">
     <uses-sdk android:minSdkVersion="8" />
@@ -43,7 +43,7 @@
             
 
         <activity android:name=".MainOthelloActivity"
-                android:label="Othello Legends"
+                android:label="Porthello Legends"
                 android:theme="@android:style/Theme.NoTitleBar"
                 android:configChanges="orientation|keyboardHidden"
                 android:screenOrientation="portrait">
